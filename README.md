@@ -8,7 +8,8 @@
 ![alt text](https://i.imgur.com/54KAKW7.png "1")
 ### must use a POST call to requestValidation
 ![alt text](https://i.imgur.com/TIAE5Tf.png "1")
-### must sign message with your wallet (helper endpoint)
+### must sign message with your wallet
+#### Helper endpoint. Not for a production app.
 ![alt text](https://i.imgur.com/xeycD39.png "1")
 ![alt text](https://i.imgur.com/2inxOCV.png "1")
 ### must submit your Star
