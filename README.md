@@ -9,7 +9,7 @@
 ### must use a POST call to requestValidation
 ![alt text](https://i.imgur.com/TIAE5Tf.png "1")
 ### must sign message with your wallet
-#### <span style="color:red">Helper endpoint. Not for a production app.</span>
+#### Project helper endpoint. Not for a production app.
 ![alt text](https://i.imgur.com/xeycD39.png "1")
 ![alt text](https://i.imgur.com/2inxOCV.png "1")
 ### must submit your Star
